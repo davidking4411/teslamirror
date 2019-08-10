@@ -38,6 +38,5 @@ When any of these actions are triggered, the string entry in the yaml file is up
 4. Install gpiozero if not already installed following [this guide](https://gpiozero.readthedocs.io/en/stable/installing.html)
 5. Install a PyYaml if not already installed using pip found [here](https://pypi.org/project/PyYAML/)
 6. Run the two scripts you downloaded from this repository simultaneously.
-7. Debug as necessary...
 
 I hope you enjoy, feel free to make any comments, questions, or suggestions as this is my first public Github project.
